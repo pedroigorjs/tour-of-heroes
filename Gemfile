@@ -16,6 +16,7 @@ end
 group :development do
   gem 'listen', '~> 3.3'
   gem 'spring'
+  gem "faker", "~> 2.17"
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
